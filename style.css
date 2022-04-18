@@ -1,0 +1,52 @@
+.card {
+    margin: 0 auto !important;
+    
+}
+
+.contacto {
+    padding: 40px 0px;
+    background: red;
+    text-align: center;
+}
+
+.deportes {
+    padding: 40px 0px;
+    background: red;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+
+}
+
+.form-horizontal{
+    display:block;
+    width:50%;
+    margin:0 auto;
+}
+
+.color {
+    background-color: rgb(133, 127, 127) !important;
+}
+
+h2, h3, h4 {
+    font-size: 80% !important;
+}
+
+.active {
+    color: white !important;
+}
+
+    .football {
+        padding: 40px 0px;
+        background: red !important;
+        text-align: center;
+    }
+ .reseña {
+    padding: 40px 0px;
+    background: black !important;
+    text-align: center;
+    color: white !important;
+
+ }
